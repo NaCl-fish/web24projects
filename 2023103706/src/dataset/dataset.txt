@@ -1,0 +1,2 @@
+https://www.vision.caltech.edu/datasets/cub_200_2011/
+https://www.kaggle.com/datasets/nunenuh/pytorch-challange-flower-dataset
